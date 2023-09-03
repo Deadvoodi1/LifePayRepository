@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifePayProject", "LifePayProject\LifePayProject.csproj", "{6D65B088-65A5-4E83-87C6-503199B04934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiTestFramework", "UiTestFramework\UiTestFramework.csproj", "{993C395B-9755-4F8A-8CD9-97B6CB4930AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifePosSpecFlowApiTests", "LifePosSpecFlowApiTests\LifePosSpecFlowApiTests.csproj", "{7546F538-D5BB-495D-A5A5-0ACD2D7C8205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D65B088-65A5-4E83-87C6-503199B04934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D65B088-65A5-4E83-87C6-503199B04934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D65B088-65A5-4E83-87C6-503199B04934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D65B088-65A5-4E83-87C6-503199B04934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993C395B-9755-4F8A-8CD9-97B6CB4930AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993C395B-9755-4F8A-8CD9-97B6CB4930AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993C395B-9755-4F8A-8CD9-97B6CB4930AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993C395B-9755-4F8A-8CD9-97B6CB4930AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7546F538-D5BB-495D-A5A5-0ACD2D7C8205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7546F538-D5BB-495D-A5A5-0ACD2D7C8205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7546F538-D5BB-495D-A5A5-0ACD2D7C8205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7546F538-D5BB-495D-A5A5-0ACD2D7C8205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
